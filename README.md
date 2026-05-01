@@ -1,4 +1,3 @@
-# Cube
 # 🧊 3D Rotating Cube
 
 A simple and interactive **3D Cube** built using **HTML, CSS, and JavaScript**.
